@@ -1,0 +1,35 @@
+cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: \
+ /home/sloancb/code/STM32WLE_TestSuite/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c \
+ /usr/arm-none-eabi/include/stdlib.h \
+ /usr/arm-none-eabi/include/machine/ieeefp.h \
+ /usr/arm-none-eabi/include/_ansi.h /usr/arm-none-eabi/include/newlib.h \
+ /usr/arm-none-eabi/include/_newlib_version.h \
+ /usr/arm-none-eabi/include/sys/config.h \
+ /usr/arm-none-eabi/include/sys/features.h \
+ /usr/lib/gcc/arm-none-eabi/15.1.0/include/stddef.h \
+ /usr/arm-none-eabi/include/sys/reent.h \
+ /usr/arm-none-eabi/include/_ansi.h \
+ /usr/arm-none-eabi/include/sys/cdefs.h \
+ /usr/arm-none-eabi/include/machine/_default_types.h \
+ /usr/arm-none-eabi/include/sys/_types.h \
+ /usr/arm-none-eabi/include/machine/_types.h \
+ /usr/arm-none-eabi/include/sys/lock.h \
+ /usr/arm-none-eabi/include/machine/stdlib.h \
+ /usr/arm-none-eabi/include/alloca.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
+ /usr/lib/gcc/arm-none-eabi/15.1.0/include/stdint.h \
+ /usr/arm-none-eabi/include/stdint.h \
+ /usr/arm-none-eabi/include/sys/_intsup.h \
+ /usr/arm-none-eabi/include/sys/_stdint.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/FreeRTOSConfig.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

@@ -1,0 +1,4 @@
+/home/sloancb/code/STM32WLE_TestSuite/Core/Src/uart_echo.c:45:19:UartEcho_Init	8	static
+/home/sloancb/code/STM32WLE_TestSuite/Core/Src/uart_echo.c:55:6:UartEcho_Process	24	static
+/home/sloancb/code/STM32WLE_TestSuite/Core/Src/uart_echo.c:109:6:UartEcho_UART_IRQHandler	8	static
+/home/sloancb/code/STM32WLE_TestSuite/Core/Src/uart_echo.c:114:6:UartEcho_DMA_IRQHandler	8	static

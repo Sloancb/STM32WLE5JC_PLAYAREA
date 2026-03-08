@@ -1,0 +1,6 @@
+/home/sloancb/code/STM32WLE_TestSuite/SubGHz_Phy/App/subghz_phy_app.c:95:6:SubghzApp_Init	8	static
+/home/sloancb/code/STM32WLE_TestSuite/SubGHz_Phy/App/subghz_phy_app.c:120:13:OnTxDone	4	static
+/home/sloancb/code/STM32WLE_TestSuite/SubGHz_Phy/App/subghz_phy_app.c:126:13:OnRxDone	24	static
+/home/sloancb/code/STM32WLE_TestSuite/SubGHz_Phy/App/subghz_phy_app.c:132:13:OnTxTimeout	4	static
+/home/sloancb/code/STM32WLE_TestSuite/SubGHz_Phy/App/subghz_phy_app.c:138:13:OnRxTimeout	4	static
+/home/sloancb/code/STM32WLE_TestSuite/SubGHz_Phy/App/subghz_phy_app.c:144:13:OnRxError	4	static

@@ -1,0 +1,20 @@
+cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir/__/__/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: \
+ /home/sloancb/code/STM32WLE_TestSuite/Middlewares/Third_Party/FreeRTOS/Source/croutine.c \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
+ /usr/lib/gcc/arm-none-eabi/15.1.0/include/stddef.h \
+ /usr/lib/gcc/arm-none-eabi/15.1.0/include/stdint.h \
+ /usr/arm-none-eabi/include/stdint.h \
+ /usr/arm-none-eabi/include/machine/_default_types.h \
+ /usr/arm-none-eabi/include/sys/features.h \
+ /usr/arm-none-eabi/include/_newlib_version.h \
+ /usr/arm-none-eabi/include/sys/_intsup.h \
+ /usr/arm-none-eabi/include/sys/_stdint.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/FreeRTOSConfig.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/portmacro.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
