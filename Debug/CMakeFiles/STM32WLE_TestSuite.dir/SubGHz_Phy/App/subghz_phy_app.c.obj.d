@@ -53,25 +53,6 @@ CMakeFiles/STM32WLE_TestSuite.dir/SubGHz_Phy/App/subghz_phy_app.c.obj: \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/main.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_gpio.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/sys_app.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/trace/adv_trace/stm32_adv_trace.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/utilities_conf.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/CMSIS/Include/cmsis_compiler.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/misc/stm32_mem.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/misc/stm32_tiny_vsnprintf.h \
- /usr/lib/gcc/arm-none-eabi/15.1.0/include/stdarg.h \
- /usr/arm-none-eabi/include/string.h /usr/arm-none-eabi/include/_ansi.h \
- /usr/arm-none-eabi/include/newlib.h \
- /usr/arm-none-eabi/include/sys/config.h \
- /usr/arm-none-eabi/include/machine/ieeefp.h \
- /usr/arm-none-eabi/include/sys/reent.h \
- /usr/arm-none-eabi/include/_ansi.h \
- /usr/arm-none-eabi/include/sys/cdefs.h \
- /usr/arm-none-eabi/include/sys/_types.h \
- /usr/arm-none-eabi/include/machine/_types.h \
- /usr/arm-none-eabi/include/sys/lock.h \
- /usr/arm-none-eabi/include/sys/_locale.h \
- /usr/arm-none-eabi/include/strings.h \
- /usr/arm-none-eabi/include/sys/string.h \
  /home/sloancb/code/STM32WLE_TestSuite/SubGHz_Phy/App/subghz_phy_app.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/SubGHz_Phy/radio_driver/radio.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Middlewares/Third_Party/SubGHz_Phy/radio_driver/radio_def.h \

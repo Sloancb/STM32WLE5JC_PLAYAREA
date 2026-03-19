@@ -28,7 +28,6 @@ extern "C" {
 
 /* Includes ------------------------------------------------------------------*/
 #include "stdint.h"
-#include "stm32_adv_trace.h"
 /* USER CODE BEGIN Includes */
 
 /* USER CODE END Includes */

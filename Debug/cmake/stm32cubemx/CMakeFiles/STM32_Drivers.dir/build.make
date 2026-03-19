@@ -293,38 +293,10 @@ cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Drive
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_lptim.c.s"
 	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_lptim.c -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_lptim.c.s
 
-cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/flags.make
-cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj: /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c
-cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sloancb/code/STM32WLE_TestSuite/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj"
-	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj -MF CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj.d -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj -c /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c
-
-cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.i"
-	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c > CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.i
-
-cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.s"
-	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.s
-
-cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/flags.make
-cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj: /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c
-cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sloancb/code/STM32WLE_TestSuite/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj"
-	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj -MF CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj.d -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj -c /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c
-
-cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.i"
-	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c > CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.i
-
-cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.s"
-	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.s
-
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/flags.make
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj: /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sloancb/code/STM32WLE_TestSuite/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sloancb/code/STM32WLE_TestSuite/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj"
 	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj -MF CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj.d -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj -c /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c
 
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.i: cmake_force
@@ -338,7 +310,7 @@ cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Drive
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/flags.make
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj: /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sloancb/code/STM32WLE_TestSuite/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sloancb/code/STM32WLE_TestSuite/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj"
 	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj -MF CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj.d -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj -c /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c
 
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.i: cmake_force
@@ -352,7 +324,7 @@ cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Drive
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/flags.make
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj: /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sloancb/code/STM32WLE_TestSuite/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sloancb/code/STM32WLE_TestSuite/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj"
 	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj -MF CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj.d -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj -c /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c
 
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.i: cmake_force
@@ -362,6 +334,34 @@ cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Drive
 cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.s"
 	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.s
+
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/flags.make
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj: /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sloancb/code/STM32WLE_TestSuite/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj"
+	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj -MF CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj.d -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj -c /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c
+
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.i"
+	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c > CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.i
+
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.s"
+	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.s
+
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/flags.make
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj: /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/sloancb/code/STM32WLE_TestSuite/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj"
+	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj -MF CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj.d -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj -c /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c
+
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.i"
+	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c > CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.i
+
+cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.s"
+	cd /home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx && /usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sloancb/code/STM32WLE_TestSuite/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.s
 
 STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32wlxx.c.obj
 STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_tim.c.obj
@@ -379,11 +379,11 @@ STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM3
 STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal.c.obj
 STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_exti.c.obj
 STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_lptim.c.obj
-STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj
-STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj
 STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj
 STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj
 STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj
+STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj
+STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj
 STM32_Drivers: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/build.make
 .PHONY : STM32_Drivers
 

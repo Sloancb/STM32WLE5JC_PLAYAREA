@@ -107,6 +107,8 @@ void vcom_Resume(void);
 
 /* USER CODE BEGIN EFP */
 
+void UART2_Rx_Init(void);
+
 void UartEcho_UART_IRQHandler(void);
 
 void UartEcho_DMA_IRQHandler(void);
@@ -114,7 +116,7 @@ void UartEcho_DMA_IRQHandler(void);
 void HAL_UART_ErrorCallback(UART_HandleTypeDef *huart);
 /* USER CODE END EFP */
 
-#ifdef __cpluspluso
+#ifdef __cplusplus
 }
 #endif
 

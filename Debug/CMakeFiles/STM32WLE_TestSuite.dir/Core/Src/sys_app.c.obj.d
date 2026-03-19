@@ -65,15 +65,6 @@ CMakeFiles/STM32WLE_TestSuite.dir/Core/Src/sys_app.c.obj: \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/main.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_gpio.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/sys_app.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/trace/adv_trace/stm32_adv_trace.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/utilities_conf.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/CMSIS/Include/cmsis_compiler.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/misc/stm32_mem.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/misc/stm32_tiny_vsnprintf.h \
- /usr/arm-none-eabi/include/string.h \
- /usr/arm-none-eabi/include/sys/_locale.h \
- /usr/arm-none-eabi/include/strings.h \
- /usr/arm-none-eabi/include/sys/string.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/misc/stm32_systime.h \
  /usr/arm-none-eabi/include/time.h \
  /usr/arm-none-eabi/include/machine/time.h \
@@ -88,8 +79,16 @@ CMakeFiles/STM32WLE_TestSuite.dir/Core/Src/sys_app.c.obj: \
  /usr/arm-none-eabi/include/sys/_pthreadtypes.h \
  /usr/arm-none-eabi/include/sys/sched.h \
  /usr/arm-none-eabi/include/machine/types.h \
+ /usr/arm-none-eabi/include/sys/_locale.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/lpm/tiny_lpm/stm32_lpm.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/timer_if.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/timer/stm32_timer.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/CMSIS/Include/cmsis_compiler.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/utilities_conf.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/misc/stm32_mem.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/misc/stm32_tiny_vsnprintf.h \
+ /usr/arm-none-eabi/include/string.h /usr/arm-none-eabi/include/strings.h \
+ /usr/arm-none-eabi/include/sys/string.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/utilities_def.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/trace/adv_trace/stm32_adv_trace.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/usart_if.h

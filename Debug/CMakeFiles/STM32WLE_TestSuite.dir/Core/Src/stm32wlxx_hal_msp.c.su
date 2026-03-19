@@ -2,9 +2,7 @@
 /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:634:22:LL_AHB3_GRP1_EnableClock	24	static
 /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:720:22:LL_AHB3_GRP1_DisableClock	16	static
 /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:914:22:LL_APB1_GRP1_EnableClock	24	static
-/home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:935:22:LL_APB1_GRP2_EnableClock	24	static
 /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:1018:22:LL_APB1_GRP1_DisableClock	16	static
-/home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:1034:22:LL_APB1_GRP2_DisableClock	16	static
 /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:1303:22:LL_APB2_GRP1_EnableClock	24	static
 /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:1351:22:LL_APB2_GRP1_DisableClock	16	static
 /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:1488:22:LL_APB3_GRP1_EnableClock	24	static
@@ -12,9 +10,9 @@
 /home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:69:6:HAL_MspInit	8	static
 /home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:91:6:HAL_LPTIM_MspInit	72	static
 /home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:125:6:HAL_LPTIM_MspDeInit	16	static
-/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:147:6:HAL_UART_MspInit	112	static
-/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:356:6:HAL_UART_MspDeInit	16	static
-/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:430:6:HAL_RNG_MspInit	72	static
-/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:464:6:HAL_RNG_MspDeInit	16	static
-/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:486:6:HAL_SUBGHZ_MspInit	16	static
-/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:505:6:HAL_SUBGHZ_MspDeInit	16	static
+/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:147:6:HAL_RNG_MspInit	72	static
+/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:181:6:HAL_RNG_MspDeInit	16	static
+/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:203:6:HAL_SUBGHZ_MspInit	16	static
+/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:222:6:HAL_SUBGHZ_MspDeInit	16	static
+/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:241:6:HAL_UART_MspInit	112	static
+/home/sloancb/code/STM32WLE_TestSuite/Core/Src/stm32wlxx_hal_msp.c:419:6:HAL_UART_MspDeInit	16	static

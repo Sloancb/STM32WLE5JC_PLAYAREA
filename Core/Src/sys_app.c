@@ -59,6 +59,8 @@
 
 /* Private variables ---------------------------------------------------------*/
 static uint8_t SYS_TimerInitialisedFlag = 0;
+
+/* USER CODE BEGIN PV */
 static uint8_t pinState = 0;
 /* USER CODE BEGIN PV */
 

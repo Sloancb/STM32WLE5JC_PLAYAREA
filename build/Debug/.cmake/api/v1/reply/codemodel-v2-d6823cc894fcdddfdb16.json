@@ -66,35 +66,35 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "FreeRTOS::@768a070a0fe75716b479",
-					"jsonFile" : "target-FreeRTOS-Debug-1c8603bbe65523871f67.json",
+					"jsonFile" : "target-FreeRTOS-Debug-9c932f63609ff59d5ab5.json",
 					"name" : "FreeRTOS",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "STM32WLE_TestSuite::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-STM32WLE_TestSuite-Debug-97a03502dc754a2d8dcf.json",
+					"jsonFile" : "target-STM32WLE_TestSuite-Debug-f0e8d52ee736e902681f.json",
 					"name" : "STM32WLE_TestSuite",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "STM32_Drivers::@768a070a0fe75716b479",
-					"jsonFile" : "target-STM32_Drivers-Debug-54fb0dce031dbe9372f1.json",
+					"jsonFile" : "target-STM32_Drivers-Debug-1fdbe4a49f8f0b0de947.json",
 					"name" : "STM32_Drivers",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "SubGHz_Phy::@768a070a0fe75716b479",
-					"jsonFile" : "target-SubGHz_Phy-Debug-2fcd8162ab20854ac14e.json",
+					"jsonFile" : "target-SubGHz_Phy-Debug-b02403686f0c43cd0768.json",
 					"name" : "SubGHz_Phy",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "Utilities::@768a070a0fe75716b479",
-					"jsonFile" : "target-Utilities-Debug-ade94a2028ed000f3e87.json",
+					"jsonFile" : "target-Utilities-Debug-3ec1a17bf5ab970ee2d8.json",
 					"name" : "Utilities",
 					"projectIndex" : 0
 				}

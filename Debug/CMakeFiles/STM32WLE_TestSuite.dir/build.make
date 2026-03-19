@@ -314,11 +314,11 @@ STM32WLE_TestSuite_EXTERNAL_OBJECTS = \
 "/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal.c.obj" \
 "/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_exti.c.obj" \
 "/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_lptim.c.obj" \
-"/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj" \
-"/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj" \
 "/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj" \
 "/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj" \
 "/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj" \
+"/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj" \
+"/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj" \
 "/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/Utilities.dir/__/__/Utilities/trace/adv_trace/stm32_adv_trace.c.obj" \
 "/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/Utilities.dir/__/__/Utilities/misc/stm32_mem.c.obj" \
 "/home/sloancb/code/STM32WLE_TestSuite/Debug/cmake/stm32cubemx/CMakeFiles/Utilities.dir/__/__/Utilities/misc/stm32_systime.c.obj" \
@@ -373,11 +373,11 @@ STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Dri
 STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal.c.obj
 STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_exti.c.obj
 STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_lptim.c.obj
-STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj
-STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj
 STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng.c.obj
 STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_rng_ex.c.obj
 STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_subghz.c.obj
+STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart.c.obj
+STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_uart_ex.c.obj
 STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/Utilities.dir/__/__/Utilities/trace/adv_trace/stm32_adv_trace.c.obj
 STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/Utilities.dir/__/__/Utilities/misc/stm32_mem.c.obj
 STM32WLE_TestSuite.elf: cmake/stm32cubemx/CMakeFiles/Utilities.dir/__/__/Utilities/misc/stm32_systime.c.obj

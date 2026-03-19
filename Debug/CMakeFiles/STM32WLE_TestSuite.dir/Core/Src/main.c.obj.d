@@ -60,6 +60,7 @@ CMakeFiles/STM32WLE_TestSuite.dir/Core/Src/main.c.obj: \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../SubGHz_Phy/App/app_subghz_phy.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../SubGHz_Phy/App/subghz_phy_app.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/sys_app.h \
+ /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/usart_if.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Utilities/trace/adv_trace/stm32_adv_trace.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/utilities_conf.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Drivers/CMSIS/Include/cmsis_compiler.h \
@@ -79,5 +80,4 @@ CMakeFiles/STM32WLE_TestSuite.dir/Core/Src/main.c.obj: \
  /usr/arm-none-eabi/include/sys/_locale.h \
  /usr/arm-none-eabi/include/strings.h \
  /usr/arm-none-eabi/include/sys/string.h \
- /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/usart_if.h \
  /home/sloancb/code/STM32WLE_TestSuite/cmake/stm32cubemx/../../Core/Inc/main.h
